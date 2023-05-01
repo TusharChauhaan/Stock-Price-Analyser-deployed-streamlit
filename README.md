@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-streamlit
+# Stock-Price-Analyser-using-streamlit
 Deploying a stock price prediction app using streamlit.
 
 Link for the application deployed on streamlit.
